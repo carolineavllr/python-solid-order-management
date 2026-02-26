@@ -42,6 +42,10 @@
 
 ---
 
+## **Output esperado**
+<img width="917" height="148" alt="Screenshot from 2026-02-25 23-11-18" src="https://github.com/user-attachments/assets/0b4319d3-e69f-4355-a310-fc145357589a" />
+
+
 ## **Exemplo de Uso**
 
 - **Cadastrar Cliente e Itens**:
